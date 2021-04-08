@@ -1,0 +1,18 @@
+
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		471 1190 1339 1448 1685 1838 2077 2100 2353 2458 2996 3169 3489 3848 3925 3992 4347 4396 4551 4571 7036 7057 7073 7074 7078 7081 7083 7087 7090 7091 7094 7097 14350 
+	}
+    
+    history={
+
+		add_core_of = GUA
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+

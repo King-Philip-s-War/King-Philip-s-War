@@ -1,0 +1,18 @@
+
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		9 348 407 1702 1913 2056 2381 3879 4421 4629 4831 5093 5173 7266 7289 7299 7301 7304 7329 14356 14357 14358 
+	}
+    
+    history={
+
+		add_core_of = SUR
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+

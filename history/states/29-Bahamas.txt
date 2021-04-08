@@ -1,0 +1,17 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		815 6931 8764 8765 8766 8768 8769 8771 8774 
+	}
+    
+    history={
+
+		add_core_of = BAH
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+

@@ -1,0 +1,17 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		523 632 1400 1886 3341 3368 4446 4932 7293 7302 7308 7310 
+	}
+    
+    history={
+
+		add_core_of = CAY
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+

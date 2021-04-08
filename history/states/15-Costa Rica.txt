@@ -1,0 +1,18 @@
+
+state={
+	id=15
+	name="STATE_15"
+	provinces={
+		310 1002 1391 2032 2112 2303 2995 3364 4275 4397 4803 5160 7159 7167 7169 7179 7182 7197 7203 
+	}
+    
+    history={
+
+		add_core_of = COS
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+

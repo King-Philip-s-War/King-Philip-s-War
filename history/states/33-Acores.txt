@@ -1,0 +1,17 @@
+state={
+	id=33
+	name="STATE_33"
+	provinces={
+		8750 8751 8752 8753 
+	}
+    
+    history={
+
+		add_core_of = POR
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+

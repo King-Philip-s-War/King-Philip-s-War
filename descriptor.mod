@@ -5,9 +5,12 @@ tags={
 	"National Focuses"
 	"Map"
 }
-replace_path="common/bookmarks"
+replace_path="common/ai_strategy"
 replace_path="history/states"
 replace_path="history/units"
+replace_path="common/bookmarks"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
 replace_path="gfx/loadingscreens"
 name="King Philip's War"
 supported_version="1.10.4"

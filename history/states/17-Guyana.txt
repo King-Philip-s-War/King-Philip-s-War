@@ -1,0 +1,17 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		468 703 704 776 918 977 1299 1629 1704 1962 2463 2873 3319 3435 3583 3650 3666 3782 4450 4549 4600 7247 7256 7257 7264 7273 7279 7287 7318 7325 7349 
+	}
+    
+    history={
+
+		add_core_of = GYA
+	}
+    
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}
+
