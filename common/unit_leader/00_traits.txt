@@ -103,7 +103,6 @@ leader_traits = {
 		}
 		
 		planning_skill_factor = 1
-		logistics_skill_factor = 1
 	}
 
 	war_hero = { 
@@ -2238,11 +2237,8 @@ leader_traits = {
 		}
 
 		modifier = {
-			own_operative_detection_chance_factor = -0.1
 			target_sabotage_factor = 0.25
 			target_sabotage_risk = -0.25
-			operation_capture_cipher_outcome = 0.25
-			operation_capture_cipher_risk = -0.25
 		}
 	}
 
@@ -2256,7 +2252,6 @@ leader_traits = {
 		modifier = { 
 			operation_infiltrate_outcome = 0.25
 			operation_infiltrate_risk = -0.25
-			own_operative_detection_chance_factor = -0.2
 		}
 	}
 
@@ -2302,7 +2297,7 @@ leader_traits = {
 		}
 
 		modifier = {
-			intelligence_agency_defense = 0.2
+
 		}
 	}
 
@@ -2345,7 +2340,6 @@ leader_traits = {
 		#}
 
 		modifier = {
-			enemy_operative_intel_extraction_rate = -0.5
 		}
 	}
 
@@ -2358,7 +2352,6 @@ leader_traits = {
 		}
 
 		modifier = {
-			operation_capture_cipher_outcome = 0.25
 			operation_steal_tech_risk = -0.25
 			operation_steal_tech_outcome = 0.25
 		}
@@ -2380,8 +2373,7 @@ leader_traits = {
 		}
 
 		modifier = {
-			control_trade_mission_factor = 0.2
-			diplomatic_pressure_mission_factor = 0.2
+
 		}
 	}
 
@@ -2398,9 +2390,6 @@ leader_traits = {
 		
 		cost = 400
 		modifier = {
-			operation_coup_government_risk = -0.25
-			operation_coup_government_cost = -0.25
-			boost_ideology_mission_factor = 0.2
 		}
 	}
 
@@ -2409,8 +2398,6 @@ leader_traits = {
 		trait_type = basic_trait
 		#gained through script when successfully executing an escape operation
 		modifier = {
-			operation_rescue_operative_risk = -0.1
-			operation_rescue_operative_cost = -0.1
 		}
 	}
 

@@ -10,7 +10,6 @@ USA = "countries/USA.txt"
 MAN = "countries/Manchukou.txt"
 ITA = "countries/Italy.txt"
 POR = "countries/Portugal.txt"
-
 ARG = "countries/Argentina.txt"
 BAH = "countries/Bahamas.txt"
 BAS = "countries/British Antilles.txt"
@@ -42,3 +41,4 @@ SUR = "countries/Suriname.txt"
 TRI = "countries/Trinidad and Tobago.txt"
 URG = "countries/Uruguay.txt"
 VEN = "countries/Venezula.txt"
+

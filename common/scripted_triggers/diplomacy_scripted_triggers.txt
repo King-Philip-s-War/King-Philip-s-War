@@ -460,7 +460,7 @@ DIPLOMACY_GENERATE_WARGOAL_ENABLE_TRIGGER = {
 				option = FREE_25
 			}
 		}
-		threat>0.24
+		threat > 0.24
 	}
 	if = {
 		limit = {
@@ -469,7 +469,7 @@ DIPLOMACY_GENERATE_WARGOAL_ENABLE_TRIGGER = {
 				option = FREE_50
 			}
 		}
-		threat>0.49
+		threat > 0.49
 	}
 	if = {
 		limit = {
@@ -478,7 +478,7 @@ DIPLOMACY_GENERATE_WARGOAL_ENABLE_TRIGGER = {
 				option = FREE_75
 			}
 		}
-		threat>0.74
+		threat > 0.74
 	}
 	if = {
 		limit = {
@@ -487,7 +487,7 @@ DIPLOMACY_GENERATE_WARGOAL_ENABLE_TRIGGER = {
 				option = FREE_100
 			}
 		}
-		threat>0.99
+		threat > 0.99
 	}
 	if = {
 		limit = {
